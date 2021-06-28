@@ -5,8 +5,8 @@ He claims to have an [RCE on Microsoft Edge](https://web.archive.org/web/2021062
 
 
 <p float="left" align="middle">
-<img src="/images/microsoft-rce-1.png" width="128" />
-<img src="/images/microsoft-rce-2.png" width="128" />
+<img src="/images/microsoft-rce-1.png" width="384" />
+<img src="/images/microsoft-rce-2.png" width="384" />
 </p>
 
 
