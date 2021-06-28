@@ -2,6 +2,15 @@
 
 He claims to have an [RCE on Microsoft Edge](https://web.archive.org/web/20210628124939/https://www.techpana.com/2021/90779/) which has become a really biased topic, since if any of the Microsoft products would be hit by an [RCE](https://en.wikipedia.org/wiki/Arbitrary_code_execution) over something then there should be a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) assigned.
 
+
+
+<p float="left" align="middle">
+<img src="/images/microsoft-rce-1.png" width="128" />
+<img src="/images/microsoft-rce-2.png" width="128" />
+</p>
+
+
+
 Where we do not see any sign of CVE but he claims to still have an RCE. **IF "YOU" ARE READING THIS, DO SEND A PULL REQUEST WITH A CVE NUMBER. NOT ONLY THIS, IF YOU WANNA PROVE YOURSELF. DO SEND A PULL REQUEST INSTEAD OF BRAGGING ABOUT IT WITH THE MEDIA.**
 
 So, let's take a closer look at this.
