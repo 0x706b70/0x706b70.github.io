@@ -39,7 +39,7 @@ Looks like he isn't a newbie but his claims seemed to be just fake. His RCEs see
 
 As far as we see, it seems he'd [manipulated DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) **manually** to flex it, along with it [spoofed E-mails](https://en.wikipedia.org/wiki/Email_spoofing) to fake things up.
 
-After some incident regarding his authenticity checks, looks like he took his Twitter account down for a while and removed the Tweet (OSCP pinned tweet), and later [thanked TechPana](https://twitter.com/Nep_1337_1998/status/1409476595241295873) for something mysterious 🤔
+After some incident regarding his authenticity checks, looks like he took his Twitter account down for a while and removed the Tweet (OSCP pinned tweet), and later [thanked TechPana](https://web.archive.org/web/20210628200858/https://twitter.com/Nep_1337_1998/status/1409476595241295873) for something mysterious 🤔
 
 ## Conclusion
 
