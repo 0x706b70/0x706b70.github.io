@@ -55,7 +55,7 @@ This thing shows that TechPana didn't even look for the authenticity of the achi
 
 So, Nepalese media should work to check the authenticity of the source rather than just **reach**.
 
-Along with that **Routine of Nepal Banda** should also STOP making people focus on **$$** since it is creating unwanted issues to the community. While we agree it is supposed to make things better and encourage people and for inspiration but we can inspire and encourage without actually disclosing **$$$$** 
+Along with that **Routine of Nepal Banda** should also STOP making people focus on **$$** [like this](https://web.archive.org/web/20210629060859/https://twitter.com/RONBupdates/status/1408991965329256449) since it is creating unwanted issues to the community. While we agree it is supposed to make things better and encourage people and for inspiration but we can inspire and encourage without actually disclosing **$$$$** 
 
 ## Misc
 
