@@ -27,11 +27,13 @@ So, let's take a closer look at this.
 - His [so-called "Apple RCE"](https://web.archive.org/web/20210628153720/https://english.headlinenepal.com/details/3201) seemed to be just [Security Misconfiguration](https://owasp.org/www-project-top-ten/2017/A6_2017-Security_Misconfiguration) and [Cross-Site-Scripting](https://owasp.org/www-community/attacks/xss/) issues ([Proof](https://support.apple.com/en-us/HT201536) You may search for his name)
 - He had claimed [Wannacry Ransomware](https://en.wikipedia.org/wiki/WannaCry_ransomware) to be an RCE ([Proof](https://web.archive.org/web/20210628153352/https://www.gadgetbytenepal.com/microsoft-edge-rce-vulnerability/))
 - His tweet regarding Groovy Script too seemed to be plagiarised. (Proof: [His tweet](https://web.archive.org/web/20210628182802/https://twitter.com/Nep_1337_1998/status/1403780910227484675) && [Original Content](https://livebook.manning.com/book/penetrating-enterprise-networks/chapter-5/v-7/130) Check figure 5.10)
+- His Google "Hall of Fame" seemed to be fake again. ([Proof](https://www.google.com/about/appsecurity/hall-of-fame/archive/))
 
 ## Defenses 🔵
 
 - He seemed to have **some** idea about security. 
 - He has got **unverified** public exploits but again, [Unrestricted File Upload](https://cwe.mitre.org/data/definitions/434.html) and [SQL injection](https://en.wikipedia.org/wiki/SQL_injection) ([Proof](https://www.exploit-db.com/?author=10165))
+- He was listed in "Honorable Mentions" of Google because "bugs but didn't meet the bar for a reward".
 
 ## Ack 🟣
 
